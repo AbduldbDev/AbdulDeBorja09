@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🏫 I’m currently 1st year BS Information Technology at **National University Laguna**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 🌱 I’m a **Kode-Go full stack developer** graduate
 
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>  <b>- Cory House</b>
 
