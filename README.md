@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulDeBorja09&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulDeBorja09&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulDeBorja09&theme=dark&hide_border=false" /><br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=AbdulDeBorja09&limit=5&theme=dark&combine_all_yearly_contributions=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulDeBorja09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -66,12 +66,13 @@
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulDeBorja09&theme=dark&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulDeBorja09&theme=alduin&no-frame=true&no-bg=true&margin-w=4" />
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
 </div>
-
-<br><br>
-<h2 align="left">Random Dev Quote</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 <br>
+<hr/>
+<h2 align="left">💰 You can help me by Donating</h2>
+  <a href="https://paypal.me/AbdulAzizDeBorja"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> <a>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbdulAzizDeBorja) 
+
