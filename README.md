@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>  <b>Cory House</b>
 
  </div>
  
