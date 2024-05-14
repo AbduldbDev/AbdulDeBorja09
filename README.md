@@ -68,11 +68,7 @@
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulDeBorja09&theme=alduin&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
-</div>
-<br>
-<hr/>
-<h2 align="left">💰 You can help me by Donating</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <br>
   <a href="https://paypal.me/AbdulAzizDeBorja"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> <a>
-
-
+</div>
