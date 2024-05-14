@@ -20,16 +20,16 @@
  
 <div align="center"> 
   <a href="mailto:abduldb09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0078d7?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-00324d?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-de-borja-28aabb293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00324d?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://deborja.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-00324d?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
    <a href="https://discordid.netlify.app/?id=567953189450678273" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Discord-00324d?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
