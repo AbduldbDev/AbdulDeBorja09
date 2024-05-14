@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:abduldb09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00324d?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-00324d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-de-borja-28aabb293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00324d?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
