@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-0078d7?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-de-borja-28aabb293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-012233?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-00324d?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://deborja.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
