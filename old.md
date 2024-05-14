@@ -14,7 +14,7 @@
  
  👨‍🎓 I’m a **Kode-Go full stack developer** graduate
 
-<i>"Code is like humor. When you have to explain it, it’s bad."</i> <b>- Cory House</b>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>  <b>- Cory House</b>
 
  </div>
  
@@ -55,9 +55,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-![](https://github-readme-stats.vercel.app/api?username=AbdulDeBorja09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulDeBorja09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulDeBorja09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbdulDeBorja09&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
+
