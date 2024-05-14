@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🏫 I’m currently 1st year BS Information Technology at **National University Laguna**
+ 📚 I’m currently 1st year BS Information Technology at **National University Laguna**
  
- 🌱 I’m a **Kode-Go full stack developer** graduate
+ 👨‍🎓 I’m a **Kode-Go full stack developer** graduate
 
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>  <b>- Cory House</b>
 
@@ -22,7 +22,7 @@
   <a href="mailto:abduldb09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-de-borja-28aabb293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://deborja.vercel.app" target="_blank">
