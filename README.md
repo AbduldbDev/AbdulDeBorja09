@@ -29,7 +29,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
    <a href="https://discordid.netlify.app/?id=567953189450678273" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
