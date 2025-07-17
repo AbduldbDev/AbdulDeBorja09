@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 📚 I’m currently 1st year BS Information Technology at **National University Laguna**
+ 📚 I’m currently 4th year BS Information Technology at **National University Laguna**
  
  👨‍🎓 I’m a **Kode-Go full stack developer** graduate
 
