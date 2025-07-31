@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdulDeBorja09.AbdulDeBorja09" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbduldbDev.AbduldbDev" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Abdul+Aziz+De+Borja!;" />
@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbdulDeBorja09/AbdulDeBorja09/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbduldbDev/AbduldbDev/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,10 +58,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulDeBorja09&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulDeBorja09&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulDeBorja09&theme=dark&hide_border=true" /><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=AbdulDeBorja09&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbduldbDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbduldbDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbduldbDev&theme=dark&hide_border=true" /><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AbduldbDev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   
 </div>
 
@@ -70,7 +70,7 @@
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulDeBorja09&theme=alduin&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbduldbDev&theme=alduin&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   <br><br>
